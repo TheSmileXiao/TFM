@@ -12,4 +12,5 @@
 [Click to download](https://drive.google.com/file/d/1lY_HDUWOHlGbBWagYUOHZbBxUKJK3s1R/view?usp=drive_link).
 
 ## Using Dataset example.
-See more details in the jupyter notebook ``code/load_example.ipynb``.
+See more details in the jupyter notebook ``code/load_example.ipynb`` or click the colab icon: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ci-KAA0t_JgP4yYCUzeL_plD0IwRJP8t?usp=sharing)
