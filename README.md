@@ -12,4 +12,4 @@
 [Click here to download](https://drive.google.com/file/d/1lY_HDUWOHlGbBWagYUOHZbBxUKJK3s1R/view?usp=drive_link)
 
 ## Using Dataset example.
-see more details in the jupyter notebook ``code/load_example.ipynb``
+See more details in the jupyter notebook ``code/load_example.ipynb``
